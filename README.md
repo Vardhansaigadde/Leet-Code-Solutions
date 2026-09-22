@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0649-dota2-senate) |
 ## Greedy
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0641-design-circular-deque) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
