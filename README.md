@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
