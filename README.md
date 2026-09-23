@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2000-reverse-prefix-of-word](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
+| [2000-reverse-prefix-of-word](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
