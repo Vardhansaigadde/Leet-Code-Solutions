@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
 | ------- |
