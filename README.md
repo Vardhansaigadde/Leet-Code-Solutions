@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
 | [0641-design-circular-deque](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0641-design-circular-deque) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -69,4 +70,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
