@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2000-reverse-prefix-of-word) |
+## Math
+|  |
+| ------- |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
