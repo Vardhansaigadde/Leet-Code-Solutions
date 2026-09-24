@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3668-restore-finishing-order](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/3668-restore-finishing-order) |
 ## Design
 |  |
 | ------- |
