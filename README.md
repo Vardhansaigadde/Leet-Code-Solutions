@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Vardhansaigadde/Leet-Code-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Graph Theory
 |  |
 | ------- |
